@@ -1,6 +1,5 @@
-   .vs/
-   *.suo
-   *.user
-   *.userosscache
-   *.sln.docstates
-   
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
